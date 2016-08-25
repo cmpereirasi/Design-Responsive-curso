@@ -19,6 +19,15 @@
 body {
   background: #f5f5f5; }
 
+a {
+  text-decoration: none; }
+
+ul {
+  list-style: none; }
+
+img {
+  max-width: 100%; }
+
 /* @import "layout";*/
 /* @import "modules";*/
 h1 {

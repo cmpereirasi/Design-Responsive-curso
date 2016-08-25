@@ -9,7 +9,15 @@
 	box-sizing: border-box;
 	font-family: 'Lato', sans-serif;
 }
-
 body{
  background: $cinza;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+img{
+	max-width: 100%;
 }
