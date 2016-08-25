@@ -7,6 +7,7 @@
 */
 /* import BASE*/
 @import "base/base";
+@import "base/variables";
 /* @import "layout";*/
 /* @import "modules";*/
 
@@ -15,7 +16,4 @@ h1{
   dorder-radeius: 14;
   color: yellow;
   font-size: 18px;
-}
-body{
-  background: #EEE;
 }
