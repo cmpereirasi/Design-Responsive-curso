@@ -39,17 +39,17 @@ img {
     background: url(../img/logo-mobile.png) center center/56px no-repeat;
     font-size: 0; }
 
-.l-banner-herder {
+.l-banner-header {
   width: 100%;
   float: right;
   text-align: center;
   padding: 3% 4%;
   background: url(../img/bg.jpg) no-repeat fixed; }
-  .l-banner-herder h2 {
+  .l-banner-header h2 {
     font-size: 2.5em;
     font-weight: 700;
     color: #FFF; }
-  .l-banner-herder h3 {
+  .l-banner-header h3 {
     font-size: 1.5em;
     color: #FFF; }
 
@@ -90,6 +90,23 @@ img {
   float: right;
   cursor: pointer;
   margin-right: 7%; }
+
+.m-btn-section {
+  width: 100%;
+  padding-top: 5%; }
+  .m-btn-section button {
+    width: 100%;
+    margin-bottom: 2%;
+    border-radius: 5px;
+    font-size: 1.5em;
+    cursor: pointer;
+    text-align: center;
+    padding: 5%; }
+    .m-btn-section button i {
+      float: right; }
+  .m-btn-section .m-btn-cadastrar {
+    background: #ff3d00;
+    color: #FFF; }
 
 /* @import "layout";*/
 /* @import "modules";*/

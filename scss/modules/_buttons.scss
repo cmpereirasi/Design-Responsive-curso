@@ -17,3 +17,25 @@
 	cursor: pointer;
 	margin-right: 7%;
 }
+
+.m-btn-section{
+	width: 100%;
+	padding-top: 5%;
+
+	button{
+		width: 100%;
+		margin-bottom: 2%;
+		border-radius: 5px;
+		font-size: 1.5em;
+		cursor: pointer;
+		text-align: center;
+		padding: 5%;
+		i{
+			float: right;
+		}
+	}
+	.m-btn-cadastrar{
+		background: #ff3d00 ;
+		color: #FFF;
+	}
+}
