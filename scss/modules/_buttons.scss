@@ -1,0 +1,19 @@
+@import "base/variables";
+// modulo button section
+.m-btn-menu{
+	width: 56px; 
+	height: 56px;
+	float: right;
+	text-align: center;
+	color: #FFF;
+	border-radius: 56px;
+	cursor: pointer;
+	background: linear-gradient(to right, $cor-logo-1, $cor-logo-2);
+}
+.m-btn-close{
+	font-size: 3em;
+	color: #FFF;
+	float: right;
+	cursor: pointer;
+	margin-right: 7%;
+}

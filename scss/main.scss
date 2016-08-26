@@ -8,12 +8,11 @@
 /* import BASE*/
 @import "base/base";
 @import "base/variables";
+@import "layouts/header";
+@import "layouts/nav";
+@import "modules/buttons";
 /* @import "layout";*/
 /* @import "modules";*/
 
 
-h1{
-  dorder-radeius: 14;
-  color: yellow;
-  font-size: 18px;
-}
+

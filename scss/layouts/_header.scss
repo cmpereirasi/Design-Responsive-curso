@@ -1,0 +1,13 @@
+.l-cabecalho{
+	width: 100%;
+	float: left;
+	padding: 3% 4%;
+
+	.l-logo{
+		width: 56px;
+		height: 56px;
+		float: left;
+		background: url(../img/logo-mobile.png) center center/56px no-repeat;
+		font-size: 0;	
+	}
+}
