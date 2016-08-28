@@ -46,7 +46,7 @@ img {
   padding: 3% 4%;
   background: url(../img/bg.jpg) no-repeat fixed; }
   .l-banner-header h2 {
-    font-size: 2.5em;
+    font-size: 1.5em;
     font-weight: 700;
     color: #FFF; }
   .l-banner-header h3 {
@@ -85,11 +85,11 @@ img {
   background: linear-gradient(to right, #ce2e3c, #da6709); }
 
 .m-btn-close {
-  font-size: 3em;
-  color: #FFF;
+  font-size: 2em;
+  color: orange;
   float: right;
   cursor: pointer;
-  margin-right: 7%; }
+  margin: 5% 9% 0 0; }
 
 .m-btn-section {
   width: 100%;
@@ -105,7 +105,7 @@ img {
     .m-btn-section button i {
       float: right; }
   .m-btn-section .m-btn-cadastrar {
-    background: #ff3d00;
+    background: #212121;
     color: #FFF; }
 
 /* @import "layout";*/
