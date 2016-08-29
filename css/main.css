@@ -108,5 +108,34 @@ img {
     background: #212121;
     color: #FFF; }
 
+.m-servicos {
+  width: 100%;
+  float: left;
+  padding: 3% 4%; }
+  .m-servicos .m-servicos-servico {
+    width: 100%;
+    background-color: #FFF;
+    text-align: left;
+    border-radius: 7px;
+    float: left;
+    margin-bottom: 6%; }
+    .m-servicos .m-servicos-servico img {
+      border-radius: 7px 7px 0 0; }
+    .m-servicos .m-servicos-servico .m-servicos-inner {
+      padding: 7%; }
+      .m-servicos .m-servicos-servico .m-servicos-inner a {
+        font-size: 1.3em;
+        color: #212121;
+        font-weight: 400; }
+      .m-servicos .m-servicos-servico .m-servicos-inner h4 {
+        font-size: 1em;
+        color: #212121;
+        font-weight: 400;
+        margin-top: 2%; }
+      .m-servicos .m-servicos-servico .m-servicos-inner p {
+        margin-top: 6%;
+        line-height: 1.5em;
+        color: #212121; }
+
 /* @import "layout";*/
 /* @import "modules";*/

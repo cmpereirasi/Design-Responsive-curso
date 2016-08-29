@@ -1,0 +1,37 @@
+.m-servicos{
+	width: 100%;
+	float: left;
+	padding: 3% 4%;
+	.m-servicos-servico{
+		width: 100%;
+		background-color: #FFF;
+		text-align: left;
+		border-radius: 7px;
+		float: left;
+		margin-bottom: 6%;
+		img{
+			border-radius: 7px 7px 0 0;
+		}
+		.m-servicos-inner{
+			padding: 7%;
+
+			a{
+				font-size: 1.3em;
+				color: #212121;
+				font-weight: 400;
+			}
+			h4{
+				font-size: 1em;
+				color: #212121;
+				font-weight: 400;
+				margin-top: 2%;
+			}
+
+			p{
+				margin-top: 6%;
+				line-height: 1.5em;
+				color: #212121;
+			}
+		}
+	}
+}
