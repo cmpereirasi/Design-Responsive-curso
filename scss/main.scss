@@ -9,11 +9,18 @@
 @import "base/base";
 @import "base/variables";
 @import "layouts/header";
+
+/* @import "layout";*/
 @import "layouts/nav";
+@import "layouts/footer";
+@import "layouts/header";
+@import "layouts/responsive";
+
+/* @import "modules";*/
+@import "modules/blocks";
 @import "modules/buttons";
 @import "modules/sections";
-/* @import "layout";*/
-/* @import "modules";*/
+@import "modules/typography";
 
 
 
