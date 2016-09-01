@@ -75,6 +75,24 @@ img {
         .l-menu ul li a:hover {
           border: 1px solid #da6709; }
 
+.l-footer-social-midia {
+  width: 100%;
+  padding: 3% 5%;
+  background: linear-gradient(to right, #ce2e3c, #da6709);
+  float: left;
+  text-align: center; }
+  .l-footer-social-midia .l-social-midia--icons a {
+    font-size: 1.5em;
+    padding-right: 3%;
+    color: rgba(255, 255, 255, 0.7); }
+    .l-footer-social-midia .l-social-midia--icons a:hover {
+      color: white; }
+    .l-footer-social-midia .l-social-midia--icons a:last-child {
+      margin-right: 0; }
+  .l-footer-social-midia .l-footer--copyright {
+    color: white;
+    margin-top: 2%; }
+
 .l-cabecalho {
   width: 100%;
   float: left;

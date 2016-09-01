@@ -1,0 +1,28 @@
+@import "base/variables";
+
+.l-footer-social-midia{
+	width: 100%;
+	padding: 3% 5%;
+	background: linear-gradient(to right, $cor-logo-1, $cor-logo-2);
+	float: left;
+	text-align: center;
+	.l-social-midia--icons{
+
+		a{
+			font-size: 1.5em;
+			padding-right: 3%;
+			color: rgba(255,255,255,0.7);
+
+			&:hover{
+				color: rgb(255,255,255);
+			}
+			&:last-child{
+				margin-right: 0;
+			}
+		}
+	}
+	.l-footer--copyright{
+		color: rgb(255,255,255);
+		margin-top: 2%;
+	}
+}
