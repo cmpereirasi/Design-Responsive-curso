@@ -135,6 +135,11 @@ img {
     background: #212121;
     color: #FFF; }
 
+.m-newsletter input {
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.5); }
+
 .m-servicos {
   width: 100%;
   float: left;
@@ -163,3 +168,18 @@ img {
         margin-top: 6%;
         line-height: 1.5em;
         color: #212121; }
+
+.m-newsletter {
+  width: 100%;
+  background: #212121;
+  float: left;
+  text-align: center;
+  padding: 3% 4%; }
+  .m-newsletter h2 {
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #FFF; }
+  .m-newsletter h3 {
+    color: #FFF; }
+  .m-newsletter form {
+    margin-top: 7%; }
