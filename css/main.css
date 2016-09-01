@@ -137,8 +137,20 @@ img {
 
 .m-newsletter input {
   width: 100%;
+  padding: 5%;
   border-radius: 5px;
-  border: 1px solid rgba(255, 255, 255, 0.5); }
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: #FFF;
+  background-color: #212121; }
+
+.m-newsletter button {
+  width: 100%;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 2%;
+  padding: 5%;
+  background-color: #FFF;
+  color: #212121; }
 
 .m-servicos {
   width: 100%;
